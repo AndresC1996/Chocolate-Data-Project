@@ -3,7 +3,7 @@
 <p><strong>Introduction:</strong> This project aims to construct a comprehensive analysis of a dataset including over 1,700 unique chocolate bars, each value evaluated by experts. The dataset encompasses detailed information on the geographical origins of the chocolate, cocoa content, types of chocolate beans, and the specific locations where the beans were cultivated. Ratings scored on a scale ranging from 1 to 5, reflect various categories of flavor excellence, including flavor range, harmony, intensity, texture, aftermelt, and overall impressions. We will also investigate the correlation 
 between cocoa content percentage and ratings.  </p>
 
-<a href="https://github.com/AndresC1996/InstaCartCF" class="no-scroll">View Project</a>
+<a href="(https://public.tableau.com/views/ChocolateDataProject/MainStory?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)" class="no-scroll">View Tableau Story</a>
 <p><br> <strong>Key Questions</strong><br/>
 <br>●  What is the distribution of chocolate ratings across different cocoa percentages?<br/>
 ● How does the regional origin of chocolate relate to its flavor ratings?<br/>
